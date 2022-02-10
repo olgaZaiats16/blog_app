@@ -1,0 +1,27 @@
+.footer-area .copyright_text {
+      padding-top: 25px;
+      margin-top: 70px;
+      border-top: 1px solid #e6e8e9;
+  }
+
+  .footer-text > p {
+      color: #888888;
+      font-family: "Lora", serif;
+      line-height: 1.929;
+      font-size: 16px;
+      margin-bottom: 0px;
+      color: #646464;
+  }
+
+  .ti-heart:before {
+      content: "\e634";
+  }
+
+  .footer-area .copyright_text a {
+      color: #fc4600;
+  }
+
+  .footer-area .copyright_text .footer-social a {
+      color: #b9babb;
+      margin-left: 20px;
+  }
